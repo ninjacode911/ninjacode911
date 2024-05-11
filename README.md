@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/ninjacode911)
 
 - 💻 Hi, I'm an aspiring AI Engineer
-- 🤔 I’m currently pursuing my CS degree
+- 🤔 I’m currently pursuing my Bachelor degree
 - 🌱 I'm well versed with Python, Machine Learning, Git, Tensorflow,MySQL, PremierePro.
 - 📫 How to reach me: navnitamrutharaj1234@gmail.com
 
