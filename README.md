@@ -6,7 +6,7 @@
 
 
 - 💻 I'm an AI & MLOps Engineer
-- 🤔 I’m currently pursuing my Bachelor degree
+- 🤔 I’m a Computer Science Graduate
 - 🌱 I'm well versed with Python, Machine Learning, Git, Tensorflow,MySQL, PremierePro.
 - 📫 How to reach me: navnitamrutharaj1234@gmail.com
 
