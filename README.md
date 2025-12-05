@@ -1,4 +1,6 @@
-# Hey...
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/ninjacode911/Github/blob/main/NAVNIT%20background.png" />
+</div>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navnitai/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/navnit.a_?igsh=ajVyZWp2MjRoYjZw/)](https://www.instagram.com/navnit.a_?igsh=ajVyZWp2MjRoYjZw)
