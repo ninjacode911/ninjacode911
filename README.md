@@ -74,6 +74,5 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjacode911&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjacode911&layout=compact&theme=dark&hide_border=true&count_private=true" height="160" alt="languages graph" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjacode911" alt="ninjacode911" /></a> </p>
 </div>
