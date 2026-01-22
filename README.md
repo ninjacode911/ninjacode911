@@ -70,9 +70,4 @@
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **Creative** | ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white) ![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-121212?style=flat-square&logo=blackmagicdesign&logoColor=white) |
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjacode911" alt="ninjacode911" /></a> </p>
-</div>
